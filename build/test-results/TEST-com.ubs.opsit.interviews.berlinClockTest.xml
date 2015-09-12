@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.interviews.berlinClockTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2015-09-11T12:20:53" hostname="lapt-smo" time="0.008">
+  <properties/>
+  <testcase name="testShouldReturnOneHoursRow" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.001"/>
+  <testcase name="testBottomMinutesShouldHaveFourLights" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.0"/>
+  <testcase name="testBerlinClockShouldReturnFiveElements" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.001"/>
+  <testcase name="testShouldReturnOneMinutesRow" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.0"/>
+  <testcase name="testTopYellowLightShouldBeOnInEvenSecondsAndOffInOddSeconds" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.0"/>
+  <testcase name="testShouldReturnFiveHoursRow" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.0"/>
+  <testcase name="testShouldThrowExceptionForIllegalArgument" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.0"/>
+  <testcase name="testShouldReturnFiveMinutesRow" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.001"/>
+  <testcase name="testTopAndBottomHoursShouldHaveFourLights" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.0"/>
+  <testcase name="testTopMinutesShouldHaveElevenLights" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.0"/>
+  <testcase name="testShouldReturnEntireBerlinClockTime" classname="com.ubs.opsit.interviews.berlinClockTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
